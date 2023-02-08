@@ -1,9 +1,9 @@
 banner:
   enable: true
   image: "images/banner.jpg"
-  contents: "**Arcana:** _A responsive site template freebie by [HTML5 UP](https://html5up.net/)_"
+  contents: "**Invisible Glass Seattle** _Let me make your windows invisible today!_"
   button:
-    contents: "Learn More"
+    contents: "Text or call: (360) 386-5884!"
     url: "#"
 items:
   - type: highlights
@@ -27,10 +27,6 @@ items:
   - type: heading
     heading: A gigantic heading you can use for whatever
     contents: With a much smaller subtitle hanging out just below it
-  - type: posts
-    #heading: Recent Posts
-    content_type: posts
-    max: 4
   - type: cta
     contents: Are you ready to continue your quest?
     button:
