@@ -2,3 +2,5 @@ baseURL = 'http://invisibleglassseatle.com'
 languageCode = 'en-us'
 title = 'Invisible Glass'
 theme= 'arcana'
+[markup.goldmark.renderer]
+unsafe= true
