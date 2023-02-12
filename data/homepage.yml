@@ -1,7 +1,7 @@
 banner:
   enable: true
   image: "images/banner.jpg"
-  contents: "**Invisible Glass Seattle** _Let me make your windows invisible today!_"
+  contents: "**Invisible Glass Seattle** _Let us make your windows invisible today!_"
   button:
     contents: "Text or call: (360) 386-5884!"
     url: "sms:+13603865884?&body=Hi%20there!%20I%27m%20interested%20in%20making%20my%20windows%20invisible!"
@@ -23,8 +23,8 @@ items:
     - title: Licensed and Insured
       icon: fa-user-check
       content: >
-       Being fully licenced by the State of Washington and insured up to $2,000,000 through
-       American Family Insurance means you can rest assured that Invisible Glass Seattle 
+       Being fully licenced by the State of Washington and insured up to $2,000,000 
+       means you can rest assured that Invisible Glass Seattle 
        takes its work and your home seriously.
   - type: cta
     contents: I don't know what this part will be yet
