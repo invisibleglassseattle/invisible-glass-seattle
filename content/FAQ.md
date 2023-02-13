@@ -22,10 +22,10 @@ We work outside of these areas on a case-by-case basis.
 We have a $2,000,000 insurance policy through American Family Insurance and have full health coverage.
 
 ### I only want a few windows done, or only the outsides of my windows...
-Unfortunately, due to operational costs and safety/quality concerns, we do <u>not</u> offer <u>"piecework"</u> or <u>exterior only</u> window cleaning. You wouldn't want to buy half-invisible windows!
+Unfortunately, due to operational costs and safety/quality concerns, we do <u>not</u> offer "<u>piecework</u>" or <u>exterior only</u> window cleaning. You wouldn't want to buy half-invisible windows!
 
 ### What are your prices?
-Every home is different, but a good rule of thumb is that most inside & out window cleanings will cost **18₵ times the total square footage of your home.** This includes wiping down the tracks, frames, and screens, plus the bathroom mirrors for free!
+Every home is different, but a good rule of thumb is that most inside & out window cleanings will cost **18¢ times the total square footage of your home.** This includes wiping down the tracks, frames, and screens, plus the bathroom mirrors for free!
 
 There are additional costs for:
 * French pane windows 
@@ -39,7 +39,7 @@ There are additional costs for:
 Due to operational and safety concerns we can do gutters on a case-by-case basis depending on roof access and slope. We hope to expand this service in the near future!
 
 ### Cancellation policy?
-Please give 24 hours notice if you need to cancel or reschedule an appointment. If we feel that the weather is too hot (over 90°F) or cold (under 36°F), or stormy (heavy rain with 12+ mph wind), we will call to confirm or reschedule.
+Please give 24 hours notice if you need to cancel or reschedule an appointment. If we feel that the weather is too hot (over 90°F) or cold (under 36°F), or stormy (heavy rain with 12+ mph winds), we will call to either confirm or reschedule.
 
 ### What do I need to do before getting my windows cleaned?
 We will take care of moving any objects away from the windows. If you have any extremely fragile/sharp plants or objects blocking your windows we prefer they are removed in advance.
