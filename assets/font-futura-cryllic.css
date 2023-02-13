@@ -1,0 +1,42 @@
+@font-face{
+    font-family:"Futura Cryllic Book";
+    font-style:normal;
+    font-weight:300;
+    font-display:auto;
+    src:url(../webfonts/futura/FuturaCyrillicBook.ttf);
+}
+@font-face{
+    font-family:"Futura Cryllic Medium";
+    font-style:normal;
+    font-weight:400;
+    font-display:auto;
+    src:url(../webfonts/futura/FuturaCyrillicMedium.ttf);
+}
+@font-face{
+    font-family:"Futura Cryllic Book";
+    font-style:italic;
+    font-weight:300;
+    font-display:auto;
+    src:url(../webfonts/futura/futura-pt-book-oblique.otf);
+}
+@font-face{
+    font-family:"Futura Cryllic Medium";
+    font-style:italic;
+    font-weight:400;
+    font-display:auto;
+    src:url(../webfonts/futura/futura-pt-medium-oblique.otf);
+}
+@font-face{
+    font-family:"Futura Cryllic";
+    font-style:normal;
+    font-weight:600;
+    font-display:auto;
+    src:url(../webfonts/futura/FuturaCyrillicDemi.ttf);
+}
+@font-face{
+    font-family:"Futura Cryllic";
+    font-style:italic;
+    font-weight:600;
+    font-display:auto;
+    src:url(../webfonts/futura/futura-pt-demibold-oblique.otf);
+}
