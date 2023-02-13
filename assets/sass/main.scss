@@ -6,6 +6,7 @@
 @import 'libs/html-grid';
 @import url("/fontawesome-all.min.css");
 @import url("/font-futura-cryllic.css");
+@import url("/font-source-sans-pro.css");
 
 /*
     Arcana by HTML5 UP
@@ -447,6 +448,7 @@
 
     .icon {
         @include icon;
+        font-family: Source Sans Pro;
         position: relative;
         text-decoration: none;
 
@@ -1143,6 +1145,8 @@
                 li {
                     a, span {
                         font-size: 1.5em;
+                        font-family: Source Sans Pro;
+
                     }
                 }
             }
