@@ -136,7 +136,7 @@
         border-bottom: dotted 1px;
 
         &:hover {
-            color: _palette(accent, bg);
+            color: _palette(nav-color);
             border-bottom-color: transparent;
         }
     }
