@@ -23,11 +23,11 @@ items:
     - title: Licensed and Insured
       icon: fa-user-check
       content: >
-       Being fully licenced by the State of Washington and insured up to $2,000,000 
+       Being fully licensed by the State of Washington and insured up to $2M 
        means you can rest assured that Invisible Glass Seattle 
        takes its work and your home seriously.
   - type: cta
-    contents: I don't know what this part will be yet
+    contents: Learn more about Invisible Glass Seattle!
     button:
-      contents: Buttons Don't Work! Wow!
-      url: "#"
+      contents: About Us
+      url: "about"

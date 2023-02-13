@@ -6,8 +6,7 @@
 @import 'libs/html-grid';
 @import url("/fontawesome-all.min.css");
 @import url("/font-futura-cryllic.css");
-@import url("/font-source-sans-pro.css");
-
+    
 /*
     Arcana by HTML5 UP
     html5up.net | @ajlkn
@@ -448,7 +447,6 @@
 
     .icon {
         @include icon;
-        font-family: Source Sans Pro;
         position: relative;
         text-decoration: none;
 
@@ -1093,9 +1091,9 @@
 
         .copyright {
             color: _palette(fg-light);
-            margin-top: 1.5em;
+            margin-top: 4.5em;
             text-align: center;
-            font-size: 0.9em;
+            font-size: 0.5em;
         }
     }
 
@@ -1145,7 +1143,6 @@
                 li {
                     a, span {
                         font-size: 1.5em;
-                        font-family: Source Sans Pro;
 
                     }
                 }
@@ -1317,7 +1314,7 @@
                 text-align: center;
 
                 .container {
-                    margin-bottom: 4em;
+                    margin-bottom: 0em;
                 }
 
                 form .actions {
@@ -1352,11 +1349,16 @@
                 top: 0;
                 width: 100%;
                 z-index: _misc(z-index-base) + 1;
-                background-color: #333;
+                background-color: _palette(header);
                 @include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.3))', 'url("images/bg01.png")'));
                 height: 44px;
                 line-height: 44px;
                 box-shadow: 0 4px 0 0 _palette(accent, bg);
+                text-shadow: -1px 1px 2px #000,
+                1px 1px 2px #000,
+                1px -1px 0 #000,
+                -1px -1px 0 #000;
+
 
                 .title {
                     display: block;
@@ -1382,6 +1384,7 @@
                     top: 0;
                     width: 80px;
                     z-index: 2;
+                    
 
                     &:before {
                         content: '\f0c9';
@@ -1392,6 +1395,7 @@
                         width: 44px;
                         color: #fff;
                         opacity: 0.5;
+                        
                     }
 
                     &:active {
@@ -1403,7 +1407,7 @@
             }
 
             #navPanel {
-                background-color: #1f1f1f;
+                background-color: _palette(header);
                 box-shadow: inset -1px 0 3px 0 rgba(0,0,0,0.5);
                 @include vendor('background-image', ('linear-gradient(left, rgba(0,0,0,0) 75%, rgba(0,0,0,0.15))', 'url("images/bg01.png")'));
                 @include vendor('backface-visibility', 'hidden');
@@ -1419,9 +1423,9 @@
                 z-index: _misc(z-index-base) + 2;
 
                 .link {
-                    border-bottom: 0;
-                    border-top: solid 1px rgba(255,255,255,0.05);
-                    color: #888;
+                    border-bottom: 1;
+                    //border-top: solid .5px _palette(nav-color);
+                    border-bottom: solid 1.5px _palette(nav-color);
                     display: block;
                     height: 48px;
                     line-height: 48px;
@@ -1607,7 +1611,7 @@
         /* Footer */
 
             #footer {
-                padding: 2em 20px;
+                padding: 0em 20px;
                 text-align: left;
             }
 
