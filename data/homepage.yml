@@ -1,7 +1,7 @@
 banner:
   enable: true
   image: "images/banner.jpg"
-  contents: "**Invisible Glass Seattle** _Let us make your windows invisible today!_"
+  contents: "_Let us make your windows invisible today!_"
   button:
     contents: "Text or call: (360) 386-5884!"
     url: "sms:+13603865884?&body=Hi%20there!%20I%27m%20interested%20in%20making%20my%20windows%20invisible!"

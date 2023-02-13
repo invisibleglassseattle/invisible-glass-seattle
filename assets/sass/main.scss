@@ -5,7 +5,7 @@
 @import 'libs/breakpoints';
 @import 'libs/html-grid';
 @import url("css/fontawesome-all.min.css");
-@import url("css/font-source-sans-pro.css");
+@import url("css/font-futura-cryllic.css");
 
 /*
     Arcana by HTML5 UP
@@ -123,7 +123,7 @@
 
     body, input, select, textarea {
         color: _palette(fg);
-        font-family: 'Source Sans Pro', sans-serif;
+        font-family: 'Futura Cryllic Medium', sans-serif;
         font-size: 16pt;
         font-weight: 300;
         line-height: 1.65em;
@@ -150,10 +150,33 @@
     }
 
     p, ul, ol, dl, table, blockquote {
-        margin: 0 0 2em 0;
+        margin: 0 0 1em 0;
     }
 
-    h1, h2, h3, h4, h5, h6 {
+    h1 {        
+        color: #FFF;
+        font-weight: 700;
+        line-height: 1.75em;
+        margin-bottom: 1em;
+        text-shadow: -1px 1px 2px #000,
+				  1px 1px 2px #000,
+				  1px -1px 0 #000,
+				  -1px -1px 0 #000;
+
+        a {
+            color: inherit;
+            text-decoration: none;
+        }
+
+        em {
+            font-style: normal;
+            font-weight: 300;
+        }
+    }
+    
+    
+    
+    h2, h3, h4, h5, h6 {
         color: inherit;
         font-weight: 600;
         line-height: 1.75em;
@@ -784,7 +807,7 @@
     #header {
         text-align: center;
         padding: 3em 0 0 0;
-        background-color: _palette(page-background);
+        background-color: _palette(header);
         background-image:           url('images/bg02.png'),     url('images/bg02.png'),     url('images/bg01.png');
         background-position:        top left,                   top left,                   top left;
         background-size:            100% 6em,                   100% 6em,                   auto;
@@ -804,7 +827,7 @@
 
     #nav {
         cursor: default;
-        background-color: #ff7878;
+        background-color: _palette(nav-color);
         @include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.3))', 'url("images/bg01.png")'));
         padding: 0;
 
@@ -1100,7 +1123,7 @@
         /* Basic */
 
             body, input, select, textarea {
-                font-size: 13pt;
+                font-size: 14pt;
                 line-height: 1.5em;
             }
 
@@ -1338,6 +1361,7 @@
                     text-align: center;
                     color: #fff;
                     z-index: 1;
+                    font-size: 1.33em;
 
                     em {
                         font-style: normal;
@@ -1441,7 +1465,7 @@
         /* Basic */
 
             body, input, select, textarea {
-                font-size: 11pt;
+                font-size: 16pt;
                 line-height: 1.35em;
             }
 
@@ -1459,7 +1483,7 @@
 
             header {
                 p {
-                    margin-top: -0.5em;
+                    margin-top: -0.25em;
                     font-size: 1em;
                 }
 
@@ -1516,9 +1540,10 @@
                     height: 4em;
                     line-height: 4em;
                     box-shadow: 0 0 0 7px white, 0 0 0 8px _palette(border);
+                    
 
                     &:before {
-                        font-size: 24px;
+                        font-size: 40px;
                     }
                 }
             }
@@ -1532,6 +1557,7 @@
             .button {
                 width: 100%;
                 display: block;
+            line-height: 125%;
             }
 
         /* Box */

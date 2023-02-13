@@ -1,32 +1,54 @@
 ---
 title: "FAQ"
-description: "This page will have questions that haven't been asked but assuredly will be answered."
+description: ""
 menu: main
 weight: 80
 image: 
 image_alt: ""
 tags: ["", ""]
 ---
-I would love to figure out the CSS needed to make this a two-column page sometime soon!
+### What is your service area?
+* Seattle
+* Mercer Island
+* Shoreline
+* Kirkland
+* Bellevue
+* Redmond
+* Newcastle
 
-Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus.
-Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat.
-Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi
-consequat etiam lorem ipsum dolor sit amet nullam.
+We work outside of these areas on a case-by-case basis.
 
-### And Yet Another Subheading
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus
-justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem. Pellentesque lorem felis,
-ultricies a bibendum id, bibendum sit amet nisl. Mauris et lorem quam. Maecenas rutrum imperdiet
-vulputate. Nulla quis nibh ipsum, sed egestas justo. Morbi ut ante mattis orci convallis tempor.
-Etiam a lacus a lacus pharetra porttitor quis accumsan odio. Sed vel euismod nisi. Etiam convallis
-rhoncus dui quis euismod. Maecenas lorem tellus, congue et condimentum ac, ullamcorper non sapien.
-Donec sagittis massa et leo semper a scelerisque metus faucibus. Morbi congue mattis mi.
-Phasellus sed nisl vitae risus tristique volutpat. Cras rutrum commodo luctus.
+### Are you insured?
+We have a $2,000,000 insurance policy through American Family Insurance and have full health coverage.
 
-Phasellus odio risus, faucibus et viverra vitae, eleifend ac purus. Praesent mattis, enim
-quis hendrerit porttitor, sapien tortor viverra magna, sit amet rhoncus nisl lacus nec arcu.
-Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt. Mauris dolor urna,
-fringilla vel malesuada ac, dignissim eu mi. Praesent mollis massa ac nulla pretium pretium.
-Maecenas tortor mauris, consectetur pellentesque dapibus eget, tincidunt vitae arcu.
-Vestibulum purus augue, tincidunt sit amet iaculis id, porta eu purus.
+### I only want a few windows done, or only the outsides of my windows...
+Unfortunately, due to operational costs and safety/quality concerns, we do <u>not</u> offer <u>"piecework"</u> or <u>exterior only</u> window cleaning. You wouldn't want to buy half-invisible windows!
+
+### What are your prices?
+Every home is different, but a good rule of thumb is that most inside & out window cleanings will cost **18₵ times the total square footage of your home.** This includes wiping down the tracks, frames, and screens, plus the bathroom mirrors for free!
+
+There are additional costs for:
+* French pane windows 
+* Tall contemporary/A-frame homes
+* Ancient single-pane glass
+* Glass terrariums/solariums
+* Storm windows/inserts
+* Glass deck railing panels ($9.00 each)
+
+### Do you do gutters?
+Due to operational and safety concerns we can do gutters on a case-by-case basis depending on roof access and slope. We hope to expand this service in the near future!
+
+### Cancellation policy?
+Please give 24 hours notice if you need to cancel or reschedule an appointment. If we feel that the weather is too hot (over 90°F) or cold (under 36°F), or stormy (heavy rain with 12+ mph wind), we will call to confirm or reschedule.
+
+### What do I need to do before getting my windows cleaned?
+We will take care of moving any objects away from the windows. If you have any extremely fragile/sharp plants or objects blocking your windows we prefer they are removed in advance.
+
+### Covid-19?
+We are vaccinated and boosted, and are happy to wear masks inside your home upon request.
+
+### What forms of payment do you accept?
+We currently accept checks, cash, bank bill pay, and can accept debit/credit cards via Square. *We offer a 3% discount for paying by cash or check.*
+
+### Do you send out crews? Who's this "we" and "us?"
+No. Invisible Glass Seattle is a sole proprietorship consisting exclusively of Jonathon McCullough, who has been making use of "the corporate *we*" throughout this website to avoid syntactical weirdness. We appreciate the awkwardness of inviting strangers into your home. That's why when you hire Invisible Glass Seattle, you are getting a trusted and experienced professional who takes pride in their craftsmanship.
