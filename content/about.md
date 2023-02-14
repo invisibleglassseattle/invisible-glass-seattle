@@ -17,6 +17,6 @@ I'm looking forward to being the consistent, professional, and trustworthy windo
 <img src="/static/images/banner.png"
      style="float: right; margin-right: 10px;" />
 {{</unsafe>}}
-When you get Invisible Glass Seattle, you can rest assured that we will treat your home like our own
+
 
 
