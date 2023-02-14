@@ -1,6 +1,12 @@
-baseURL = 'http://invisibleglassseatle.com'
+baseURL = 'http://invisibleglassseattle.com'
 languageCode = 'en-us'
 title = 'Invisible Glass Seattle'
 theme= 'arcana'
 [markup.goldmark.renderer]
-unsafe= true
+  unsafe = true
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
