@@ -21,6 +21,9 @@ We work outside of these areas on a case-by-case basis.
 ### Are you insured?
 We have a $2,000,000 insurance policy through American Family Insurance and have full health coverage.
 
+### Do you do high-rise?
+**No.** For safety, liability, and operational reasons we do not do work higher than three stories.
+
 ### I only want a few windows done, or only the outsides of my windows...
 Unfortunately, due to operational costs and safety/quality concerns, we do <u>not</u> offer "<u>piecework</u>" or <u>exterior only</u> window cleaning. You wouldn't want to buy half-invisible windows!
 
