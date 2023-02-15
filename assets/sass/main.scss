@@ -62,10 +62,10 @@
     
     .indent { 
         margin-left: 1.5em;
-        margin-bottom: 0;        
+        margin-bottom: 0;
     }
     .indenteder{
-        //it's more indenteder
+        //it's more indenteder than the other one
         margin-left: 2em;
         margin-bottom: 0;
     }
@@ -1212,7 +1212,7 @@
             img[src$='#floatleft']
                 {
                     float:left;
-                    padding: .25em .5em 0 0;    
+                    padding: .25em .75em 0 0;    
                     //etc. etc
 
                 }
