@@ -2,7 +2,7 @@ title: Invisible Glass Seattle
 banner:
   enable: true
   image: "images/banner.jpg"
-  contents: "*Premium window cleaning service in the Greater Seattle Area* <br> _Let us make your windows invisible today! —_ Text or call **(360) 386-5884!**"
+  contents: "_Let us make your windows invisible today! —_ Text or call **(360) 386-5884!**"
   #button: #thinks is unsafe, can't seem to fix
   #  contents: "Text or call: (360) 386-5884!"
   #  url: <a href="{{sms:+13603865884 | safeURL }}">{{Hi! I'd like to make my windows invisible!}}</a>
