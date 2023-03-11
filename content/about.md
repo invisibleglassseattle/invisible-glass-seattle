@@ -11,7 +11,7 @@ tags: ["", ""]
 ---
 |             |             |
 | ----------- | ----------- |
-| {{< figure src="/images/smile.jpg#floatleft" width=60% class="float:left" >}} Hi! I'm Jonathon McCullough, owner and operator of Invisible Glass Seattle! I’ve been doing residential and low-level commercial window washing in Gig Harbor, North Tacoma, and Kitsap County since 2007 and am now bringing my skills to the greater Seattle area! <br>I'm looking forward to being the consistent, professional, and trustworthy window washer you’ve been looking for!||
+| {{< figure src="/images/smile.jpg#floatleft" width=60% class="float:left" >}} Hi! I'm Jonathon McCullough, owner and operator of Invisible Glass Seattle! I’ve been doing residential and street-level commercial window washing in Gig Harbor, North Tacoma, and Kitsap County since 2007 and am now bringing my skills to the greater Seattle area! <br>I'm looking forward to being the consistent, professional, and trustworthy window washer you’ve been looking for!||
 <br>
 
 |             |             |
