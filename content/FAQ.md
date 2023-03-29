@@ -33,7 +33,7 @@ Every home is different, but a good rule of thumb is that most inside & out wind
 There are additional costs for:
 * French pane windows 
 * Tall contemporary/A-frame homes
-* Ancient single-pane glass
+* Antique single-pane glass
 * Glass terrariums/solariums
 * Storm windows/inserts
 * Glass deck railing panels ($9.00 each)
