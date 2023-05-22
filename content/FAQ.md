@@ -51,7 +51,7 @@ We will take care of moving any objects away from the windows. If you have any e
 We are vaccinated and boosted, and are happy to wear masks inside your home upon request.
 
 ### What forms of payment do you accept?
-We currently accept checks, cash, bank bill pay, and can accept debit/credit cards via Square. *We offer a 3% discount for paying by cash or check.*
+We currently accept checks, cash, bank bill pay, and can accept debit/credit cards via Square.
 
 ### Do you send out crews? Who's this "we" and "us?"
 No. Invisible Glass Seattle is a sole proprietorship consisting exclusively of Jonathon McCullough, who has been making use of "the corporate *we*" throughout this website to avoid syntactical weirdness. We appreciate the awkwardness of inviting strangers into your home. That's why when you hire Invisible Glass Seattle, you are getting a trusted and experienced professional who takes pride in their craftsmanship.
