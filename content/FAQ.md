@@ -19,7 +19,7 @@ tags: ["", ""]
 We work outside of these areas on a case-by-case basis.
 
 ### Are you insured?
-We have a $2,000,000 insurance policy through American Family Insurance and have full health coverage.
+We have an insurance policy through American Family Insurance and have full health coverage.
 
 ### Do you do high-rise?
 **No.** For safety, liability, and operational reasons we do not do work higher than three stories.
