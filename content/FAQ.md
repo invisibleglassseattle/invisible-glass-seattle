@@ -39,7 +39,7 @@ There are additional costs for:
 * Glass deck railing panels ($9.00 each)
 
 ### Do you do gutters?
-Due to operational and safety concerns we can do gutters on a case-by-case basis depending on roof access and slope. We hope to expand this service in the near future!
+Due to operational and safety concerns we can do gutters on a case-by-case basis depending on roof access and slope. We hope to expand this service in the near future.
 
 ### Cancellation policy?
 Please give 24 hours notice if you need to cancel or reschedule an appointment. If we feel that the weather is too hot (over 90°F) or cold (under 36°F), or stormy (heavy rain with 12+ mph winds), we will call to either confirm or reschedule.
