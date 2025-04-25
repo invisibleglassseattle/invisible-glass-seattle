@@ -36,15 +36,15 @@ There are additional costs for:
 * Glass deck railing panels ($9.00 each)
 
 ### What other services do you offer?
-* **Gutter Cleaning** offered on steep roofs with gutters no higher than two storeys above ground level, or shallow-sloped roofs three storeys or less. We will ensure that your downspouts are flushed and free of clogs and can offer **gutter fascia brightening** as an additional service upon request.
-* **Pressure Washing** for driveways, patios and walkways, and natural wood or composite decks. We do not offer pressure washing of siding or roofs.
-* **Moss Treatment** We apply Wet & Forget to mossy areas of roofs on dry days when it will soak into the moss. The Wet & Forget will activate during the next rain, killing it at the root and causing it to fall off over time without no damage your roof's shingles.
+* **Gutter Cleaning** — Offered on steep roofs with gutters no higher than two storeys above ground level, or shallow-sloped roofs three storeys or less. We will ensure that your downspouts are flushed and free of clogs and can offer **gutter fascia brightening** as an additional service upon request.
+* **Pressure Washing** — For driveways, patios and walkways, and natural wood or composite decks. We do not offer pressure washing of siding or roofs.
+* **Moss Treatment** — We apply Wet & Forget to mossy areas of roofs on dry days when it will soak into the moss. The Wet & Forget will activate during the next rain, killing it at the root and causing it to fall off over time without no damage your roof's shingles.
 
 ### Cancellation policy?
 Please give 24 hours notice if you need to cancel or reschedule an appointment. If we feel that the weather is too hot (over 90°F) or cold (under 36°F), or stormy (heavy rain with 12+ mph winds), we will call to either confirm or reschedule.
 
 ### What do I need to do before getting my windows cleaned?
-Nothing! We will take care of moving any objects away from the windows. If you have any extremely fragile/sharp plants or objects blocking your windows we prefer they are removed in advance. Our #1 goal every time is to leave your home as if we were never there, except for the sparkling clean windows!
+We will take care of moving any objects away from the windows. If you have any extremely fragile/sharp plants or objects blocking your windows we prefer they are removed in advance. Our #1 goal every time is to leave your home as if we were never there, except for the sparkling clean windows!
 
 ### Covid-19?
 We are vaccinated and boosted, and are happy to wear masks inside your home upon request.
